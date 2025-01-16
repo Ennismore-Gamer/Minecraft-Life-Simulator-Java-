@@ -1,0 +1,27 @@
+This includes the following features:
+1. Aging System
+Players age over time as they progress through the game world. Their age increases each in-game day or after certain intervals.
+The player receives messages in the chat displaying their current age as they get older.
+Aging can also affect other gameplay aspects like health or appearance (if further developed).
+2. Marriage System
+Players can get married by interacting with another player. Once married, they are linked as spouses.
+The marriage status can be toggled through a command, and players can "divorce" if they choose.
+Marriage could affect gameplay in various ways, such as shared resources, buffs, or special interactions.
+3. Health Over Time
+Players' health can decline over time unless they take care of themselves (e.g., through food, medicine, or potions).
+The health decline could be influenced by in-game actions like hunger, injuries, or lack of rest.
+Health might also be tied to age—older players might experience health problems faster unless managed.
+4. Player Interaction
+The mod allows for deeper player interaction, especially with marriage and health.
+Players can "marry" each other, forming relationships that might provide benefits, such as shared inventory or buffs.
+Marital status and aging are displayed to players, giving them a more immersive experience.
+5. Children System (Optional)
+(Future Feature) Once married, players could have children. The children might grow over time, and players can take care of them.
+Children could affect the player's life in various ways, including adding responsibilities or providing help.
+6. Progression and Milestones
+Age progression can have milestones, like coming of age, retirement, or other life events that affect the player's gameplay.
+Players may unlock new abilities, traits, or quests as they age and experience life events.
+7. Life Simulation Customization (Optional)
+The mod could allow customization for various life events, aging speed, health effects, or how players interact with others (e.g., creating a family, working in a job, etc.).
+Players may be able to modify the rates of aging, health decline, or marriage conditions through a configuration file or in-game settings.
+NOTE -- This has not been tested. I recommend making a backup of your game.
